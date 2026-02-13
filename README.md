@@ -27,6 +27,16 @@ A colorful, kid-friendly 9×9 Sudoku game built with plain HTML, CSS, and JavaSc
 
 Visit **[alfredang.github.io/sudoku](https://alfredang.github.io/sudoku/)**
 
+### 🐳 Quick Docker Install
+
+Run the game instantly using Docker:
+
+```bash
+docker pull alfredang/sudoku
+docker run -d -p 8080:80 alfredang/sudoku
+```
+Then visit **[http://localhost:8080](http://localhost:8080)** in your browser.
+
 ### Run Locally
 
 ```bash
